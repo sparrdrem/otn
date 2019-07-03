@@ -24,12 +24,16 @@ Well it's a few years before college, I might as well start making some preparat
 
 ## Installation and Usage
 ### PowerMac Instructions
+Note: Be sure you have a way to get the computer on the internet. There are many ways to do this because it has built in ethernet. For example, you can use your laptop ot desktop as a wired hotspot with Connectify.
+
 1.) On the server computer (the PowerMac) download the files on the latest release. You may need to use a CD to get it on it.
-2.) 
+2.) Download the client files to your modern desktop
+3 (Optional).) Press "Win+R" and type in "shell:startup". Make a shortcut of the Frontend and copy the shortcut into the startup. This will make it run on startup.
+4.) Start it. The client is now running and is ready for a connection!
+5.) 
 
-! Under Construction !
-Please check back later!
-
+! UNDER CONSTRUCTION !
+Come back later!
 
 &copy; Innovation Inc. 2019, &copy; SparrDrem 2019
 
