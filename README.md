@@ -1,10 +1,11 @@
 # OTN (Old To New) Remote Printing Standard
 ## "Letting Your Old Devices Print Again!"
 
-Note, I was tired while making this, and kind of just winged it and threw some information on a file. It'll be revised some time later.
-Also note, this is TECHNICALLY not a standard, it just sounds cool.
+Note, I was tired while making this, and kind of just winged it and threw some information on a file. It'll be revised some time later. Also note that this is TECHNICALLY not a standard, it just sounds cool.
 
 OTN Remote Printing Standard lets your older devices like a PowerMac G3 or a Windows 2000 computer communicate with newer printers. Or, to be more specific, make a newer computer communicate to a printer for it.
+
+<img href="map.png" alt="An Image Of The Network Map For OTN">
 
 ## How It Works
 If you don't want to know and just want to set it up, skip this snd go to "Installation and Usage". Otherwise, read! It's pretty simple!
