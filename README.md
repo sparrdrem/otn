@@ -27,17 +27,21 @@ Well it's a few years before college, I might as well start making some preparat
 ### PowerMac Instructions
 Note: Be sure you have a way to get the computer on the internet. There are many ways to do this because it has built in ethernet. For example, you can use your laptop ot desktop as a wired hotspot with Connectify.
 
-1.) On the server computer (the PowerMac) download the files on the latest release. You may need to use a CD to get it on it.
+1.) Download the ISO for the latest release of the server and burn it
 
 2.) Download the client files to your modern desktop
 
 3 (Optional).) Press "Win+R" and type in "shell:startup". Make a shortcut of the Frontend and copy the shortcut into the startup. This will make it run on startup.
 
-4.) Start it. The client is now running and is ready for a connection!
+4.) Start it (otn-client.bat). The client is now running and is ready for a connection!
 
-5.) Install the RDP Client that is included in the server pack. You may also need to install the Java MRJ which is included just in case.
+5.) Insert the disk you just burned into the PowerMac.
 
-6.) Install the FTP Server and set the username and password to what you want. Change to home directory to the folder that contains your documents.
+6.) If you havn't done so already, install Stuffit Expander which is also on the ISO image you just burned.
+
+7.) Install the RDP Client that is included in the server pack. You may also need to install the Java MRJ which is included just in case.
+
+6.) Install the FTP Server by running the NetPresenz setup. Ensure you have file sharing on. Set the username and password to what you want. Change to home directory to the folder that contains your documents. It's reccomended to make the FTP server read-only for protection.
 
 7.) Start the FTP Server. Both the server and the client are now set up!
 
