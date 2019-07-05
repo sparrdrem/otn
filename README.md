@@ -25,7 +25,7 @@ Well it's a few years before college, I might as well start making some preparat
 
 ## Installation and Usage
 ### PowerMac Instructions
-Note: Be sure you have a way to get the computer on the internet. There are many ways to do this because it has built in ethernet. For example, you can use your laptop ot desktop as a wired hotspot with Connectify.
+Note: Be sure you have a way to get the computer on the internet. There are many ways to do this because it has built in ethernet.
 
 1.) Download the ISO for the latest release of the server and burn it
 
@@ -33,7 +33,7 @@ Note: Be sure you have a way to get the computer on the internet. There are many
 
 3 (Optional).) Press "Win+R" and type in "shell:startup". Make a shortcut of the Frontend and copy the shortcut into the startup. This will make it run on startup.
 
-4.) Start it (otn-client.bat). The client is now running and is ready for a connection!
+4.) Start it (otn-client.exe). The client is now running and is ready for a connection!
 
 5.) Insert the disk you just burned into the PowerMac.
 
