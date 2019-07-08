@@ -50,7 +50,7 @@ Note: Be sure you have a way to get the computer on the internet (or LAN).
 
 1.) Download the ISO for the latest release of the server and burn it
 
-2.) Download the client files to your modern desktop
+2.) Download the client files to your modern desktop. Install TeamViewer (you'll see later why you can't use RDP).
 
 3 (Optional).) Press "Win+R" and type in "shell:startup". Make a shortcut of the Frontend and copy the shortcut into the startup. This will make it run on startup.
 
@@ -58,7 +58,11 @@ Note: Be sure you have a way to get the computer on the internet (or LAN).
 
 5.) Insert the disk you just burned into the IBM compatible.
 
-6.) Install the RDP client (rdp-cli.exe). This is the official RDP client from Microsoft.
+6.) Install TeamViewer. RDP doesn't work in Windows 9x because it doesn't have all files needed for it.
+
+7.) Install FileZilla server. Be sure to create a user and allow read access. You might have to disable directory viewing too.
+
+8.) Connect to the modern computer with TeamViewer. You are now able to access the client, and you can start printing now!
 
 ### Usage
 To print a document, convert it to PDF. Most office applications can do this. Then, connect to the modern computer via the RDP client. Input the required information, and the modern computer will automatically print the file on its primary printer.
