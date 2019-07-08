@@ -25,7 +25,7 @@ Well it's a few years before college, I might as well start making some preparat
 
 ## Installation and Usage
 ### PowerMac Instructions
-Note: Be sure you have a way to get the computer on the internet. There are many ways to do this because it has built in ethernet.
+Note: Be sure you have a way to get the computer on the internet (or LAN). There are many ways to do this because it has built in ethernet.
 
 1.) Download the ISO for the latest release of the server and burn it
 
@@ -46,7 +46,19 @@ Note: Be sure you have a way to get the computer on the internet. There are many
 7.) Start the FTP Server. Both the server and the client are now set up!
 
 ### Windows 9x and 2000 Instructions
-Working on it!
+Note: Be sure you have a way to get the computer on the internet (or LAN).
+
+1.) Download the ISO for the latest release of the server and burn it
+
+2.) Download the client files to your modern desktop
+
+3 (Optional).) Press "Win+R" and type in "shell:startup". Make a shortcut of the Frontend and copy the shortcut into the startup. This will make it run on startup.
+
+4.) Start it (otn-client.exe). The client is now running and is ready for a connection!
+
+5.) Insert the disk you just burned into the IBM compatible.
+
+6.) Install the RDP client (rdp-cli.exe). This is the official RDP client from Microsoft.
 
 ### Usage
 To print a document, convert it to PDF. Most office applications can do this. Then, connect to the modern computer via the RDP client. Input the required information, and the modern computer will automatically print the file on its primary printer.
