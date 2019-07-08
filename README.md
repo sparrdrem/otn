@@ -46,7 +46,7 @@ Note: Be sure you have a way to get the computer on the internet. There are many
 7.) Start the FTP Server. Both the server and the client are now set up!
 
 ### Windows 9x and 2000 Instructions
-Coming Soon!
+Working on it!
 
 ### Usage
 To print a document, convert it to PDF. Most office applications can do this. Then, connect to the modern computer via the RDP client. Input the required information, and the modern computer will automatically print the file on its primary printer.
