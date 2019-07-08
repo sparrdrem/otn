@@ -62,7 +62,7 @@ Note: Be sure you have a way to get the computer on the internet (or LAN).
 
 1.) Download the ISO for the latest release of the server and burn it
 
-2.) Download the client files to your modern desktop. Install TeamViewer (you'll see later why you can't use RDP).
+2.) Download the client files to your modern desktop. Install TeamViewer 6 <a href="https://www.teamviewer.com/en/download/old-versions.aspx#version6">here.</a>. You'll see later why you can't use RDP.
 
 3 (Optional).) Press "Win+R" and type in "shell:startup". Make a shortcut of the Frontend and copy the shortcut into the startup. This will make it run on startup.
 
@@ -70,14 +70,14 @@ Note: Be sure you have a way to get the computer on the internet (or LAN).
 
 5.) Insert the disk you just burned into the IBM compatible.
 
-6.) Install TeamViewer. RDP doesn't work in Windows 9x because it doesn't have all files needed for it.
+6.) Install TeamViewer. RDP doesn't work in Windows 9x because it doesn't have all libraries needed for it.
 
-7.) Install FileZilla server. Be sure to create a user and allow read access. You might have to disable directory viewing too.
+7.) Install FileZilla server. Be sure to create a user and allow read access to the directory of your choosing. You might have to disable directory viewing too, becauss LIST doesn't seem to work anymore.
 
 8.) Connect to the modern computer with TeamViewer. You are now able to access the client, and you can start printing now!
 
 ### Usage
-To print a document, convert it to PDF. Most office applications can do this. Then, connect to the modern computer via the RDP client. Input the required information, and the modern computer will automatically print the file on its primary printer.
+To print a document, convert it to PDF. Most office applications can do this. Then, connect to the modern computer via the RDP client or TeamViewer. Input the required information, and the modern computer will automatically print the file on its primary printer, or printer of your choosing.
 
 Note: If you want to be able to print from anywhere in the world, you need to open the port the client's RDP server and the server's FTP server.
 
@@ -86,5 +86,3 @@ Note: If you want to be able to print from anywhere in the world, you need to op
 Instructions may be inaccurate and are not finished
 
 &copy; Innovation Inc. 2019, &copy; SparrDrem 2019
-
-Made by Sam :)
