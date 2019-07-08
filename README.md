@@ -7,6 +7,18 @@ OTN Remote Printing Standard lets your older devices like a PowerMac G3 or a Win
 
 <img src="map.png" alt="An Image Of The Network Map For OTN">
 
+## OTN Standard Iterations
+Note: These are not updates to the client or server software, but rather the overall concept of OTN.
+
+### v1.02
+OTN is now compatible with IBM compatibles!
+
+### v1.01
+An update to OTN that doesn't do much but clean up v1.00, which was thrown together in an afternoon.
+
+### v1.00
+The first version of OTN! No support for IBM compatibles yet, and basic functionality, but it works!
+
 ## How It Works
 If you don't want to know and just want to set it up, skip this snd go to "Installation and Usage". Otherwise, read! It's pretty simple!
 
