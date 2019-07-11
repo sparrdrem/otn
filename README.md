@@ -37,7 +37,7 @@ Well it's a few years before college, I might as well start making some preparat
 
 ## Installation and Usage
 ### PowerMac Instructions
-Note: Be sure you have a way to get the computer on the internet (or LAN). There are many ways to do this because it has built in ethernet.
+Note: Be sure you have a way to get the computer on the internet (or LAN). There are many ways to do this because it has built in ethernet. For example, you can use <a href="https://pimylifeup.com/raspberry-pi-wifi-bridge/">this guide</a> to use your Raspberry Pi as a wifi to ethernet bridge.
 
 1.) Download the ISO for the latest release of the server and burn it
 
@@ -58,7 +58,7 @@ Note: Be sure you have a way to get the computer on the internet (or LAN). There
 7.) Start the FTP Server. Both the server and the client are now set up!
 
 ### Windows 9x and 2000 Instructions
-Note: Be sure you have a way to get the computer on the internet (or LAN).
+Note: Be sure you have a way to get the computer on the internet (or LAN). If your IBM compatible has ethernet, you can use <a href="https://pimylifeup.com/raspberry-pi-wifi-bridge/">this guide</a> to use your Raspberry Pi as a wifi to ethernet bridge.
 
 1.) Download the ISO for the latest release of the server and burn it
 
