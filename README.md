@@ -5,18 +5,18 @@ Note, I was tired while making this, and kind of just winged it and threw some i
 
 OTN Remote Printing Standard lets your older devices like a PowerMac G3 or a Windows 2000 computer communicate with newer printers. Or, to be more specific, make a newer computer communicate to a printer for it.
 
-<img src="map.png" alt="An Image Of The Network Map For OTN">
-
 ## OTN Standard Iterations
 Note: These are not updates to the client or server software, but rather the overall concept of OTN.
 
 ### v1.02
 OTN is now compatible with IBM compatibles!
+<img src="map102.png" alt="An Image Of The Network Map For OTN v1.02">
 
 ### v1.01
 An update to OTN that doesn't do much but clean up v1.00, which was thrown together in an afternoon.
 
 ### v1.00
+<img src="map.png" alt="An Image Of The Network Map For OTN v1.00 and 1.01">
 The first version of OTN! No support for IBM compatibles yet, and basic functionality, but it works!
 
 ## How It Works
