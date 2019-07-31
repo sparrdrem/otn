@@ -8,15 +8,20 @@ OTN Remote Printing Standard lets your older devices like a PowerMac G3 or a Win
 ## OTN Standard Iterations
 Note: These are not updates to the client or server software, but rather the overall concept of OTN.
 
-### v1.02
+### v1.00-release
+OTN now uses NetCat raw TCP, and is therefor easier to make servers on any computer
+Notice: It is not recommended to print from outside the local network with OTN as it does not have any encryption at all.
+<img src="map100.png" alt="An Image Of The Network Mac For OTN v1.00">
+
+### v0.5.0-testing
 OTN is now compatible with IBM compatibles!
-<img src="map102.png" alt="An Image Of The Network Map For OTN v1.02">
+<img src="map05.png" alt="An Image Of The Network Map For OTN v0.5">
 
-### v1.01
-An update to OTN that doesn't do much but clean up v1.00, which was thrown together in an afternoon.
+### v0.1.1-testing
+An update to OTN that doesn't do much but clean up v0.1.0 which was thrown together in an afternoon.
 
-### v1.00
-<img src="map.png" alt="An Image Of The Network Map For OTN v1.00 and 1.01">
+### v0.1.0-concept
+<img src="map.png" alt="An Image Of The Network Map For OTN v0.10 and v0.11">
 The first version of OTN! No support for IBM compatibles yet, and basic functionality, but it works!
 
 ## How It Works
@@ -24,16 +29,16 @@ If you don't want to know and just want to set it up, skip this snd go to "Insta
 
 In this, the modern computer will be refered to as the "client" and the old computer the "server". This will be explained later.
 
-The client hosts a script that controls all of the client-side magic. The server connects to the modern PC and inputs information (IP and file name).
+The client hosts some scripts that controls all of the client-side magic. The server connects to the modern PC and inputs information (IP and file name).
 
 ### The Client-side Magic
 The client consists of 3 components - the Frontend, WGET, and, the beating heart of OTN, PDFToPrinter. WGET downloads the PDF from the server and PDFToPrinter prints it, while the front end wraps it all up into a user-friendly script.
 
 ### The Not-As-Cool Server-side Magic
-The server really only consists of an FTP server, which hosts the PDF files on the computer.
+The server really only consists of an _ server, which hosts the PDF files on the computer.
 
 ## Why I Made This Project
-Well it's a few years before college, I might as well start making some preparations. I decided I'd use my PowerMac G3 as my main computer and bring my desktop for gaming and to keep some servers I run operational. Sure, I could just use my desktop, but I just really want to use my PowerMac. So I will. One thing I know I'll have to do is print documents. However, I realized that its gonna be hard and expensive to find a printer that has drivers for Mac OS 9.2.2, so I needed a different solution, and that's when I made OTN.
+Well it's a few years before college, I might as well start making some preparations. I decided I'd use my PowerMac G3 as my main computer and bring my desktop for gaming and to keep some servers I run operational. Sure, I could just use my desktop, but I just really want to use my PowerMac because I'm weird. So I will. One thing I know I'll have to do is print documents. However, I realized that its gonna be hard and expensive to find a printer that has drivers for Mac OS 9.2.2, so I needed a different solution, and that's when I made OTN.
 
 ## Installation and Usage
 ### PowerMac Instructions
