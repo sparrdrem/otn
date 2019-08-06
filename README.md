@@ -58,7 +58,7 @@ Note: Be sure you have a way to get the computer on the internet (LAN will work)
 1.) Download a TelNet client. If you don't know much about computers and/or want to follow a guide, use <a href="https://sourceforge.net/projects/macssh/files/MacSSH%20PPC/2.1fc3/">MacSSH</a> because it has a built-in FTP server. Also download <a href="https://www.macintoshrepository.org/2475-stuffit-expander-and-dropstuff-5-5">Stuffit Expander</a> if you havn't already.
 
 2.) Go to 'File>FTP Users...' and set the username and password to whatever you'd like. Change the home directory of it to your Documents folder.
--->
+
 3.) Connect to the server and follow the on-screen instructions.
 
 ### Windows 9x and 2000 Instructions
@@ -70,5 +70,5 @@ Coming Soon!
 To print a document, convert it to PDF. Most office applications can do this. Then, connect to the modern computer via the RDP client or TeamViewer. Input the required information, and the modern computer will automatically print the file on its primary printer, or printer of your choosing.
 
 Note: If you want to be able to print from anywhere in the world, you need to open the port the client's RDP server and the server's FTP server.
-
+-->
 &copy; Innovation Inc. 2019, &copy; SparrDrem 2019
