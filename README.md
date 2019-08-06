@@ -1,7 +1,6 @@
 # OTN (Old To New) Remote Printing Standard
 ## "Letting Your Old Devices Print Again!"
-
-# The README.md page is no longer maintained. Please go to the Wiki.
+The README.md page is no longer maintained. Please go to the Wiki.
 <!--
 Note, I was tired while making this, and kind of just winged it and threw some information on a file. It'll be revised some time later.
 
