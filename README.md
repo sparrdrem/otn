@@ -1,6 +1,8 @@
 # OTN (Old To New) Remote Printing Standard
 ## "Letting Your Old Devices Print Again!"
 
+# The README.md page is no longer maintained. Please go to the Wiki.
+<!--
 Note, I was tired while making this, and kind of just winged it and threw some information on a file. It'll be revised some time later.
 
 OTN Remote Printing Standard lets your older devices like a PowerMac G3 or a Windows 9x/2000* computer communicate with newer printers. Or, to be more specific, make a newer computer communicate to a printer for it.
@@ -56,7 +58,7 @@ Note: Be sure you have a way to get the computer on the internet (LAN will work)
 1.) Download a TelNet client. If you don't know much about computers and/or want to follow a guide, use <a href="https://sourceforge.net/projects/macssh/files/MacSSH%20PPC/2.1fc3/">MacSSH</a> because it has a built-in FTP server. Also download <a href="https://www.macintoshrepository.org/2475-stuffit-expander-and-dropstuff-5-5">Stuffit Expander</a> if you havn't already.
 
 2.) Go to 'File>FTP Users...' and set the username and password to whatever you'd like. Change the home directory of it to your Documents folder.
-
+-->
 3.) Connect to the server and follow the on-screen instructions.
 
 ### Windows 9x and 2000 Instructions
