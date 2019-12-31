@@ -75,4 +75,4 @@ Note: Be sure you have a way to get the computer on the internet (or LAN).
 
 Coming soon!
 
-&copy; Innovation Inc. <script>new Date().getFullYear()>2017&&document.write(new Date().getFullYear());</script>, &copy; SparrDrem <script>new Date().getFullYear()>2017&&document.write(new Date().getFullYear());</script>
+&copy; Innovation Inc. 2019-2020, &copy; SparrDrem 2019-2020
