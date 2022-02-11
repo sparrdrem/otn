@@ -1,3 +1,6 @@
+# NOTICE
+This repo has been moved to [my Gitea server](https://git.innovation-inc.org/Innovation/otn/). Go there for updated code!
+
 # OTN (Old To New) Remote Printing Standard
 ## "Letting Your Old Devices Print Again!"
 ### Consider using the Wiki rather than the README
